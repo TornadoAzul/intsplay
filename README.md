@@ -7,10 +7,10 @@ de los siguientes requisitos:
 
 - Flutter instalado.
 - Android Studio, Apple Xcode y/o Visual Studio (Dependiendo la plataforma
-  a construir Shunnck).
+  a construir INTS PLAY).
 
 ## Lanzamientos de INTS PLAY
-Shunnck está disponible en [Google Play Store](https://play.google.com/store/apps/details?id=com.barceloneta.intsplay).
+INTS PLAY está disponible en [Google Play Store](https://play.google.com/store/apps/details?id=com.barceloneta.intsplay).
 
 ## Licencias del proyecto
 Este proyecto está sujeto a la política del [Derecho a la Intimidad Digital de Manatí](https://github.com/TornadoAzul/intimidad-digital-manati).
